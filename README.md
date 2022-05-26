@@ -10,7 +10,4 @@ Just a simple free to use personal website.
 Must give credits or you may be reported:-|.
 
 ---
-
-[Preview](https://moiztareen.cf/)
-<br>
-<img src="https://media.discordapp.net/attachments/886476983997964308/978268442371190794/20220523_164859.JPG">
+**Live Demo-->** https://moiztareen.cf
